@@ -1,9 +1,9 @@
 package modele;
 
-import java.sql.*;
-import java.util.List;
-import java.util.ArrayList;
 import base.ConnexionPostgres;
+import java.sql.*;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Obstacles {
     private String id;
@@ -216,6 +216,7 @@ public class Obstacles {
             // Limiter les fractions entre 0 et 1
             fractionDebut = Math.max(0, Math.min(1, fractionDebut));
             fractionFin = Math.max(0, Math.min(1, fractionFin));
+            
             
             // Requête pour extraire le segment de la route
             String query = "WITH line AS (" +
