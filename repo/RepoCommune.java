@@ -51,7 +51,7 @@ public class RepoCommune {
     public static long insertCommune(Commune commune) {
         long newId = -1;
         String sql = """
-            INSERT INTO communes (name, longitude, latitude, population)
+            INSERT INTO commune (name, longitude, latitude, population)
             VALUES (?, ?, ?, ?)
             RETURNING id
             """;
@@ -88,14 +88,14 @@ public class RepoCommune {
         List<Object[]> result = new ArrayList<>();
         String sql = """
             SELECT 
-                r.id AS rn_id,
+                r.ogc_fid AS rn_id,
                 ROUND(ST_Distance(
-                    r.geom::geography,
+                    r.wkb_geometry::geography,
                     ST_SetSRID(ST_MakePoint(?, ?), 4326)::geography
                 )::numeric, 2) AS distance_m
             FROM routes_mada r
             WHERE ST_DWithin(
-                r.geom::geography,
+                r.wkb_geometry::geography,
                 ST_SetSRID(ST_MakePoint(?, ?), 4326)::geography,
                 5000
             )
