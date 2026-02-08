@@ -1,0 +1,3119 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-02-02T10:37:27Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/27565116",
+        "admin_level": "2",
+        "capital": "yes",
+        "ele": "1276",
+        "is_capital": "country",
+        "loc_name": "Tana",
+        "name": "Antananarivo",
+        "name:af": "Antananarivo",
+        "name:am": "አንታናናሪቮ",
+        "name:an": "Antananarivo",
+        "name:ar": "أنتاناناريفو",
+        "name:ast": "Antananarivu",
+        "name:avk": "Antananarivo",
+        "name:az": "Antananarivu",
+        "name:azb": "آنتاناناریوو",
+        "name:ba": "Антананариву",
+        "name:be": "Антананарыву",
+        "name:be-tarask": "Антананарыву",
+        "name:bg": "Антананариво",
+        "name:bn": "আন্তানানারিভো",
+        "name:bo": "ཨེན་ཊ་ན་ན་རི་བོ།",
+        "name:br": "Antananarivo",
+        "name:bs": "Antananarivo",
+        "name:ca": "Antananarivo",
+        "name:cdo": "Antananarivo",
+        "name:ce": "Антананариву",
+        "name:ceb": "Antananarivo",
+        "name:ckb": "ئانتاناناریڤۆ",
+        "name:cs": "Antananarivo",
+        "name:cy": "Antananarivo",
+        "name:da": "Antananarivo",
+        "name:de": "Antananarivo",
+        "name:diq": "Antananarivo",
+        "name:el": "Ανταναναρίβο",
+        "name:en": "Antananarivo",
+        "name:eo": "Antananarivo",
+        "name:es": "Antananarivo",
+        "name:et": "Antananarivo",
+        "name:eu": "Antananarivo",
+        "name:fa": "آنتاناناریوو",
+        "name:fi": "Antananarivo",
+        "name:fj": "Antananarivo",
+        "name:fr": "Antananarivo",
+        "name:frr": "Antananarivo",
+        "name:fy": "Antananarivo",
+        "name:ga": "Antananairíveo",
+        "name:gd": "Antananarivo",
+        "name:gl": "Antananarivo",
+        "name:gv": "Antananarivo",
+        "name:ha": "Antananarivo",
+        "name:hak": "Antananarivo",
+        "name:he": "אנטננריבו",
+        "name:hi": "अन्टाननरीवो",
+        "name:hr": "Antananarivo",
+        "name:hsb": "Antananarivo",
+        "name:ht": "Antananarivo",
+        "name:hu": "Antananarivo",
+        "name:hy": "Անտանանարիվու",
+        "name:ia": "Antananarivo",
+        "name:id": "Antananarivo",
+        "name:ie": "Antananarivo",
+        "name:io": "Antananarivo",
+        "name:is": "Antananarívó",
+        "name:it": "Antananarivo",
+        "name:ja": "アンタナナリボ",
+        "name:jv": "Antananarivo",
+        "name:ka": "ანტანანარივუ",
+        "name:kaa": "Antananarivo",
+        "name:kbp": "Antananarivo",
+        "name:kg": "Antananarivo",
+        "name:kk": "Антананариву",
+        "name:kn": "ಅನ್ಟಾನನರೀವೋ",
+        "name:ko": "안타나나리보",
+        "name:ku": "Antananarivo",
+        "name:kw": "Antananarivo",
+        "name:ky": "Антананариву",
+        "name:la": "Antananarivo",
+        "name:lb": "Antananarivo",
+        "name:lfn": "Antananarivo",
+        "name:lij": "Antananarïvo",
+        "name:lmo": "Antananarivo",
+        "name:lo": "ອັນຕານານາຣິໂວ",
+        "name:lt": "Antananaryvas",
+        "name:lv": "Antananarivu",
+        "name:mg": "Antananarivo",
+        "name:mi": "Antananarivo",
+        "name:mk": "Антананариво",
+        "name:ml": "ആന്റനനറീവൊ",
+        "name:mn": "Антананариву",
+        "name:mr": "अंतानानारिव्हो",
+        "name:mrj": "Антананариву",
+        "name:ms": "Antananarivo",
+        "name:nah": "Antananarivo",
+        "name:nap": "Antananarivo",
+        "name:nds": "Antananarivo",
+        "name:nl": "Antananarivo",
+        "name:nn": "Antananarivo",
+        "name:no": "Antananarivo",
+        "name:oc": "Antananarivo",
+        "name:olo": "Antananarivu",
+        "name:os": "Антананариву",
+        "name:pa": "ਅੰਤਾਨਾਨਾਰੀਵੋ",
+        "name:pap": "Antananarivo",
+        "name:pl": "Antananarywa",
+        "name:pms": "Antananarivo",
+        "name:pnb": "انٹاناناریوو",
+        "name:ps": "آنتاناناریوو",
+        "name:pt": "Antananarivo",
+        "name:ro": "Antananarivo",
+        "name:ru": "Антананариву",
+        "name:rw": "Antananarivo",
+        "name:sc": "Antananarivo",
+        "name:sco": "Antananarivo",
+        "name:sd": "انٽاناناريوو",
+        "name:sh": "Antananarivo",
+        "name:simple": "Antananarivo",
+        "name:sk": "Antananarivo",
+        "name:sl": "Antananarivo",
+        "name:smn": "Antananarivo",
+        "name:sn": "Antananarivo",
+        "name:so": "Antananarifo",
+        "name:sq": "Antananarivo",
+        "name:sr": "Антананариво",
+        "name:sv": "Antananarivo",
+        "name:sw": "Antananarivo",
+        "name:szl": "Antananarivo",
+        "name:ta": "அண்டனானரீவோ",
+        "name:tg": "Антананариву",
+        "name:th": "อันตานานาริโว",
+        "name:tl": "Antananarivo",
+        "name:tr": "Antananarivo",
+        "name:udm": "Антананариву",
+        "name:uk": "Антананаріву",
+        "name:ur": "اینٹانانیریو",
+        "name:uz": "Antananarivu",
+        "name:vec": "Antananarivo",
+        "name:vep": "Antananarivu",
+        "name:vi": "Antananarivo",
+        "name:vro": "Antananarivo",
+        "name:war": "Antananarivo",
+        "name:wo": "Antananariwo",
+        "name:wuu": "塔那那利佛",
+        "name:xmf": "ანტანანარივუ",
+        "name:yi": "אנטאנאנאריווא",
+        "name:yo": "Antananarivo",
+        "name:yue": "安塔那那利佛",
+        "name:zh": "塔那那利佛",
+        "name:zh_min_nan": "Antananarivo",
+        "name:zu": "Antananarivo",
+        "old_name": "Tananarive",
+        "place": "city",
+        "population": "1391433",
+        "population:date": "2022",
+        "source:name:oc": "Lo Congrès",
+        "source:population": "Instat 2018",
+        "wikidata": "Q3915",
+        "wikipedia": "en:Antananarivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5255809,
+          -18.9100122
+        ]
+      },
+      "id": "node/27565116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/254609408",
+        "capital": "4",
+        "name": "Toliara",
+        "name:en": "Toliara",
+        "name:fr": "Toliara",
+        "name:ko": "톨리아라",
+        "name:mg": "Toliara",
+        "name:ru": "Тулиара",
+        "name:uk": "Туліара",
+        "name:zh": "图利亚拉",
+        "name:zh-Hans": "图利亚拉",
+        "name:zh-Hant": "圖利亞拉",
+        "old_name": "Tuléar",
+        "place": "city",
+        "population": "168756",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q824043",
+        "wikipedia": "fr:Toliara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.66966,
+          -23.354173
+        ]
+      },
+      "id": "node/254609408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/254615144",
+        "capital": "4",
+        "name": "Maroantsetra",
+        "name:en": "Maroantsetra",
+        "name:ru": "Мароантсера",
+        "name:uk": "Мароантсера",
+        "place": "town",
+        "population": "42529",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q118175",
+        "wikimedia_commons": "Category:Maroantsetra",
+        "wikipedia": "fr:Maroantsetra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.7422912,
+          -15.4348742
+        ]
+      },
+      "id": "node/254615144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/254616067",
+        "capital": "4",
+        "loc_name": "Diégo",
+        "name": "Antsiranana",
+        "name:ar": "أنتسيرانانا",
+        "name:el": "Αντσιρανάνα",
+        "name:eo": "Antsiranana",
+        "name:et": "Antsiran̈ana",
+        "name:fa": "آنتسیرانانا",
+        "name:fr": "Antsiranana",
+        "name:he": "אנצירננה",
+        "name:ja": "アンツィラナナ",
+        "name:ka": "ანცირანანა",
+        "name:ko": "안치라나나",
+        "name:lt": "Anciranana",
+        "name:nl": "Antsiranana",
+        "name:ru": "Анциранана",
+        "name:ta": "அண்ட்சிரனனா",
+        "name:th": "อันต์ซีรานานา",
+        "name:uk": "Анціранана",
+        "name:ur": "انتسیرانانا",
+        "name:zh": "安齐拉纳纳",
+        "name:zh-Hans": "安齐拉纳纳",
+        "name:zh-Hant": "安齊拉納納",
+        "old_name": "Diégo-Suarez",
+        "place": "city",
+        "population": "129320",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "url": "https://www.youtube.com/watch?v=b9kuvfbrI38",
+        "wikidata": "Q218928",
+        "wikipedia": "en:Antsiranana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2913743,
+          -12.2779632
+        ]
+      },
+      "id": "node/254616067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/254616909",
+        "alt_name": "Andoany",
+        "capital": "6",
+        "name": "Hell-Ville",
+        "place": "town",
+        "population": "50251",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q492217",
+        "wikimedia_commons": "Category:Hell Ville",
+        "wikipedia": "fr:Andoany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.274305,
+          -13.405413
+        ]
+      },
+      "id": "node/254616909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/254617039",
+        "name": "Dzamandzar",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1943884,
+          -13.3516121
+        ]
+      },
+      "id": "node/254617039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/254618037",
+        "alt_name:fr": "Majunga",
+        "capital": "4",
+        "name": "Mahajanga",
+        "name:ar": "ماهاجانجا",
+        "name:be": "Махадзанга",
+        "name:de": "Mahajanga",
+        "name:el": "Μαχατζάνγκα",
+        "name:en": "Mahajanga",
+        "name:eo": "Mahajanga",
+        "name:fa": "ماهاجانگا",
+        "name:fr": "Mahajanga",
+        "name:he": "מאהאז'אנגה",
+        "name:it": "Mahajanga",
+        "name:ja": "マジュンガ",
+        "name:ka": "მაჰაძანგა",
+        "name:ko": "마하장가",
+        "name:lt": "Mahadzanga",
+        "name:mg": "Mahajanga",
+        "name:nl": "Mahajanga",
+        "name:ru": "Махадзанга",
+        "name:uk": "Махадзанга",
+        "name:ur": "ماہاجانگا",
+        "name:zh": "马哈赞加",
+        "old_name": "Majunga",
+        "place": "city",
+        "population": "246022",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q218753",
+        "wikipedia": "en:Mahajanga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3172577,
+          -15.7181492
+        ]
+      },
+      "id": "node/254618037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300217995",
+        "capital": "4",
+        "ele": "747",
+        "name": "Ihosy",
+        "place": "town",
+        "population": "39556",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q1657947",
+        "wikimedia_commons": "Category:Ihosy",
+        "wikipedia": "en:Ihosy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1289903,
+          -22.403183
+        ]
+      },
+      "id": "node/300217995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300218243",
+        "capital": "6",
+        "ele": "472",
+        "is_in:country": "Madagascar",
+        "is_in:region": "Atsimo-Andrefana",
+        "name": "Sakaraha",
+        "place": "town",
+        "wikipedia": "fr:Sakaraha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5323696,
+          -22.9119193
+        ]
+      },
+      "id": "node/300218243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300272255",
+        "capital": "4",
+        "name": "Antsirabe",
+        "name:ar": "أنتسيرابي",
+        "name:be": "Анцырабэ",
+        "name:bg": "Анцирабе",
+        "name:de": "Antsirabe",
+        "name:el": "Αντσιραμπέ",
+        "name:fa": "آنتسیراب",
+        "name:he": "אנטסיראבה",
+        "name:hy": "Անցիրաբե",
+        "name:it": "Antsirabe",
+        "name:ja": "アンツィラベ",
+        "name:ko": "안치라베",
+        "name:lt": "Ancirabė",
+        "name:lv": "Ancirabe",
+        "name:nl": "Antsirabe",
+        "name:ru": "Анцирабе",
+        "name:sr": "Анцирабе",
+        "name:uk": "Анцирабе",
+        "name:ur": "آنتسیرابے",
+        "name:zh": "安齐拉贝",
+        "place": "city",
+        "population": "246354",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q583184",
+        "wikipedia": "en:Antsirabe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.034667,
+          -19.871403
+        ]
+      },
+      "id": "node/300272255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300378189",
+        "capital": "6",
+        "name": "Mitsinjo",
+        "place": "town",
+        "wikidata": "Q1099442",
+        "wikipedia": "en:Mitsinjo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.866061,
+          -16.011496
+        ]
+      },
+      "id": "node/300378189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300379949",
+        "capital": "6",
+        "name": "Marovoay",
+        "place": "town",
+        "population": "39290",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q1902425",
+        "wikimedia_commons": "Category:Marovoay",
+        "wikipedia": "fr:Marovoay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.642048,
+          -16.1088044
+        ]
+      },
+      "id": "node/300379949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300382318",
+        "GNS:id": "-215189",
+        "capital": "4",
+        "name": "Maevatanàna",
+        "place": "town",
+        "population": "25928",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q1328830",
+        "wikipedia": "fr:Maevatanana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.828337,
+          -16.9497038
+        ]
+      },
+      "id": "node/300382318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300385305",
+        "capital": "6",
+        "name": "Ambatomainty",
+        "place": "town",
+        "wikidata": "Q2841936",
+        "wikipedia": "en:Ambatomainty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.6655134,
+          -17.6963929
+        ]
+      },
+      "id": "node/300385305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300385517",
+        "capital": "6",
+        "name": "Ankazobe",
+        "place": "town",
+        "population": "26845",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q2850305",
+        "wikimedia_commons": "Category:Ankazobe",
+        "wikipedia": "fr:Ankazobe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1144865,
+          -18.3143843
+        ]
+      },
+      "id": "node/300385517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300385656",
+        "alt_name": "Fenoarivo Afovoany",
+        "capital": "6",
+        "name": "Fenoarivobe",
+        "place": "town",
+        "wikidata": "Q2834496",
+        "wikipedia": "fr:Fenoarivobe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5642647,
+          -18.4518171
+        ]
+      },
+      "id": "node/300385656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300385953",
+        "capital": "6",
+        "name": "Morafenobe",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9251181,
+          -17.8189515
+        ]
+      },
+      "id": "node/300385953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300387736",
+        "capital": "4",
+        "name": "Maintirano",
+        "name:en": "Maintirano",
+        "place": "town",
+        "population": "22293",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q2531012",
+        "wikimedia_commons": "Category:Maintirano",
+        "wikipedia": "fr:Maintirano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.023951,
+          -18.0608947
+        ]
+      },
+      "id": "node/300387736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300388295",
+        "capital": "6",
+        "name": "Besalampy",
+        "place": "town",
+        "population": "11331",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q1099539",
+        "wikipedia": "en:Besalampy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.4908675,
+          -16.7484406
+        ]
+      },
+      "id": "node/300388295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300388620",
+        "capital": "6",
+        "name": "Soalala",
+        "place": "town",
+        "population": "14328",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q2480172",
+        "wikimedia_commons": "Category:Soalala",
+        "wikipedia": "en:Soalala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.328472,
+          -16.102869
+        ]
+      },
+      "id": "node/300388620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300388920",
+        "capital": "6",
+        "name": "Faratsiho",
+        "place": "town",
+        "wikidata": "Q1343729",
+        "wikimedia_commons": "Category:Faratsiho",
+        "wikipedia": "fr:Faratsiho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9508361,
+          -19.4050956
+        ]
+      },
+      "id": "node/300388920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300388948",
+        "GNS:id": "-221882",
+        "capital": "6",
+        "name": "Soavinandriana",
+        "place": "town",
+        "population": "40045",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q3117789",
+        "wikipedia": "fr:Soavinandriana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7386858,
+          -19.1707551
+        ]
+      },
+      "id": "node/300388948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300389431",
+        "capital": "4",
+        "name": "Miarinarivo",
+        "place": "town",
+        "population": "13109",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q155530",
+        "wikipedia": "fr:Miarinarivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.906709,
+          -18.956006
+        ]
+      },
+      "id": "node/300389431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300389556",
+        "capital": "4",
+        "name": "Tsiroanomandidy",
+        "place": "town",
+        "population": "44461",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q1649287",
+        "wikipedia": "fr:Tsiroanomandidy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0495226,
+          -18.7698412
+        ]
+      },
+      "id": "node/300389556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/316841166",
+        "capital": "4",
+        "ele": "1350",
+        "name": "Ambositra",
+        "place": "town",
+        "population": "41078",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q458440",
+        "wikimedia_commons": "Category:Ambositra",
+        "wikipedia": "fr:Ambositra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2450521,
+          -20.5328149
+        ]
+      },
+      "id": "node/316841166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/316842941",
+        "capital": "6",
+        "ele": "1234",
+        "name": "Ambohimahasoa",
+        "place": "town",
+        "population": "11606",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q2778665",
+        "wikipedia": "en:Ambohimahasoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.214455,
+          -21.106357
+        ]
+      },
+      "id": "node/316842941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/316843071",
+        "capital": "4",
+        "description": "kapital sa rehiyon",
+        "name": "Fianarantsoa",
+        "name:de": "Fianarantsoa",
+        "name:it": "Fianarantsoa",
+        "name:ko": "피아나란초아",
+        "name:no": "Fianarantsoa",
+        "name:ru": "Фианаранцуа",
+        "place": "city",
+        "population": "191776",
+        "population:date": "2018",
+        "postal_code": "301",
+        "source:population": "Instat 2018",
+        "wikidata": "Q527441",
+        "wikipedia": "fr:Fianarantsoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.085149,
+          -21.456444
+        ]
+      },
+      "id": "node/316843071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/316844298",
+        "ele": "848",
+        "name": "Ranohira",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.4141185,
+          -22.5567477
+        ]
+      },
+      "id": "node/316844298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/316844748",
+        "alt_name": "Ilakaka",
+        "capital": "8",
+        "ele": "754",
+        "name": "Andohanilakaka",
+        "place": "town",
+        "wikidata": "Q3108180",
+        "wikimedia_commons": "Category:Ilakaka",
+        "wikipedia": "fr:Andohanilakaka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.2147386,
+          -22.700384
+        ]
+      },
+      "id": "node/316844748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/335711690",
+        "alt_name:fr": "Tamatave",
+        "capital": "4",
+        "name": "Toamasina",
+        "name:ar": "أنتسيرابي",
+        "name:ca": "Toamasina",
+        "name:de": "Toamasina",
+        "name:el": "Τοαμασίνα",
+        "name:en": "Toamasina",
+        "name:fa": "تواماسینا",
+        "name:fr": "Toamasina",
+        "name:he": "טומאסינה",
+        "name:hy": "Տուամասինա",
+        "name:it": "Toamasina",
+        "name:ja": "トアマシナ",
+        "name:ka": "ტუამასინა",
+        "name:ko": "토아마시나",
+        "name:mn": "Туамасина",
+        "name:nl": "Toamasina",
+        "name:ru": "Туамасина",
+        "name:sr": "Тоамасина",
+        "name:uk": "Туамасіна",
+        "name:ur": "تواماسینا",
+        "name:zh": "图阿马西纳",
+        "name:zh-Hans": "图阿马西纳",
+        "name:zh-Hant": "圖阿馬西納",
+        "old_name": "Tamatave",
+        "place": "city",
+        "population": "325857",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q178067",
+        "wikipedia": "en:Toamasina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4098352,
+          -18.1553985
+        ]
+      },
+      "id": "node/335711690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/337945914",
+        "ele": "185",
+        "name": "Ankilizato",
+        "place": "town",
+        "wikidata": "Q927237",
+        "wikipedia": "en:Ankilizato, Mahabo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.046357,
+          -20.408832
+        ]
+      },
+      "id": "node/337945914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/340427004",
+        "capital": "6",
+        "ele": "49",
+        "loc_name": "Port-Bergé",
+        "name": "Port-Bergé",
+        "name:fr": "Port-Bergé",
+        "name:mg": "Boriziny",
+        "place": "town",
+        "population": "22573",
+        "population:date": "2018",
+        "source:population": "Instat 2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.6207245,
+          -15.5668595
+        ]
+      },
+      "id": "node/340427004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/574302812",
+        "ele": "50",
+        "name": "Ambondromamy",
+        "place": "town",
+        "wikidata": "Q2842315",
+        "wikimedia_commons": "Category:Ambondromamy",
+        "wikipedia": "en:Ambondromamy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.156923,
+          -16.436889
+        ]
+      },
+      "id": "node/574302812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/574455512",
+        "GNS:id": "-219704",
+        "name": "Namakia",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.8380586,
+          -15.9127159
+        ]
+      },
+      "id": "node/574455512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/590835579",
+        "capital": "6",
+        "name": "Manjakandriana",
+        "place": "town",
+        "population": "22188",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q1523009",
+        "wikimedia_commons": "Category:Manjakandriana",
+        "wikipedia": "fr:Manjakandriana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8113315,
+          -18.9210585
+        ]
+      },
+      "id": "node/590835579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/593976824",
+        "alt_name": "Ampasimanolotra",
+        "capital": "6",
+        "name": "Brickaville",
+        "place": "town",
+        "population": "27865",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q474422",
+        "wikimedia_commons": "Category:Ampasimanolotra",
+        "wikipedia": "en:Brickaville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0694434,
+          -18.8208628
+        ]
+      },
+      "id": "node/593976824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/637715770",
+        "capital": "6",
+        "name": "Ambohidratrimo",
+        "place": "town",
+        "population": "23760",
+        "population:date": "2018",
+        "source:population": "Instat 2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4395021,
+          -18.8186405
+        ]
+      },
+      "id": "node/637715770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/637715789",
+        "capital": "8",
+        "name": "Mahitsy",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3453175,
+          -18.7482365
+        ]
+      },
+      "id": "node/637715789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/664492742",
+        "capital": "6",
+        "name": "Moramanga",
+        "place": "town",
+        "population": "57084",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q2423165",
+        "wikipedia": "fr:Moramanga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2304269,
+          -18.9471494
+        ]
+      },
+      "id": "node/664492742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/671507246",
+        "GNS:dsg_code": "PPLA2",
+        "GNS:id": "-213051",
+        "GNS:modify_dat": "2013-05-02",
+        "capital": "4",
+        "loc_name": "Fénérive Est",
+        "name": "Fenoarivo Atsinanana",
+        "name:fr": "Fénérive Est",
+        "name:mg": "Fenoarivo Atsinanana",
+        "place": "town",
+        "population": "41734",
+        "population:date": "2018",
+        "source": "GNS",
+        "source:population": "Instat 2018",
+        "wikidata": "Q1404813",
+        "wikimedia_commons": "Category:Fenoarivo Atsinanana",
+        "wikipedia": "fr:Fenoarivo Atsinanana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4099733,
+          -17.382029
+        ]
+      },
+      "id": "node/671507246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/671561243",
+        "name": "Soanierana Ivongo",
+        "place": "town",
+        "wikidata": "Q2387366",
+        "wikimedia_commons": "Category:Soanierana Ivongo",
+        "wikipedia": "en:Soanierana Ivongo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.585367,
+          -16.920327
+        ]
+      },
+      "id": "node/671561243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/678832056",
+        "alt_name": "Ambodifototra",
+        "capital": "6",
+        "name": "Ambodifototra",
+        "place": "town",
+        "population": "26822",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q20310560",
+        "wikipedia": "fr:Ambodifototra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8525772,
+          -16.9996379
+        ]
+      },
+      "id": "node/678832056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/701529816",
+        "capital": "6",
+        "ele": "1025",
+        "name": "Ambalavao",
+        "place": "town",
+        "population": "43231",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q2092364",
+        "wikimedia_commons": "Category:Ambalavao",
+        "wikipedia": "fr:Ambalavao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9384737,
+          -21.8316233
+        ]
+      },
+      "id": "node/701529816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/710305755",
+        "capital": "4",
+        "name": "Morondava",
+        "name:ja": "モロンダバ",
+        "name:ko": "모론다바",
+        "name:ru": "Мурундава",
+        "name:zh": "穆龙达瓦",
+        "place": "town",
+        "population": "53510",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q864109",
+        "wikimedia_commons": "Category:Morondava",
+        "wikipedia": "en:Morondava"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2786121,
+          -20.2951102
+        ]
+      },
+      "id": "node/710305755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/711526109",
+        "capital": "6",
+        "name": "Ambatolampy",
+        "place": "town",
+        "population": "32291",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q427722",
+        "wikimedia_commons": "Category:Ambatolampy",
+        "wikipedia": "fr:Ambatolampy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4271559,
+          -19.3858258
+        ]
+      },
+      "id": "node/711526109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/713524647",
+        "capital": "4",
+        "is_in:country": "Madagascar",
+        "is_in:region": "Sofia",
+        "name": "Antsohihy",
+        "place": "town",
+        "population": "38253",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q609567",
+        "wikipedia": "fr:Antsohihy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.98715,
+          -14.8775272
+        ]
+      },
+      "id": "node/713524647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/713527688",
+        "capital": "6",
+        "is_in:country": "Madagascar",
+        "is_in:region": "Sofia",
+        "name": "Analalava",
+        "place": "town",
+        "population": "12991",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q484581",
+        "wikipedia": "en:Analalava"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.7487026,
+          -14.6320018
+        ]
+      },
+      "id": "node/713527688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/715574491",
+        "capital": "6",
+        "name": "Ambanja",
+        "place": "town",
+        "population": "60321",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q456642",
+        "wikipedia": "fr:Ambanja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4527762,
+          -13.6758118
+        ]
+      },
+      "id": "node/715574491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/721308145",
+        "capital": "6",
+        "is_in:country": "Madagascar",
+        "is_in:region": "Sava",
+        "name": "Andapa",
+        "place": "town",
+        "population": "34616",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q2526503",
+        "wikimedia_commons": "Category:Andapa",
+        "wikipedia": "fr:Andapa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6517827,
+          -14.6622706
+        ]
+      },
+      "id": "node/721308145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/724157435",
+        "capital": "4",
+        "name": "Sambava",
+        "name:ja": "サンババ",
+        "place": "town",
+        "population": "84039",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q254480",
+        "wikimedia_commons": "Category:Sambava",
+        "wikipedia": "fr:Sambava"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1556533,
+          -14.254956
+        ]
+      },
+      "id": "node/724157435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/724521817",
+        "capital": "6",
+        "name": "Antsalova",
+        "place": "town",
+        "wikidata": "Q1089614",
+        "wikipedia": "en:Antsalova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6219368,
+          -18.6757519
+        ]
+      },
+      "id": "node/724521817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/725564687",
+        "capital": "6",
+        "loc_name": "Belo",
+        "name": "Belo-Tsiribihina",
+        "place": "town",
+        "wikipedia": "fr:Belon'i Tsiribihina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5483552,
+          -19.7014439
+        ]
+      },
+      "id": "node/725564687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/726665354",
+        "capital": "6",
+        "name": "Ambilobe",
+        "name:ru": "Амбилубе",
+        "place": "town",
+        "population": "62346",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q457534",
+        "wikimedia_commons": "Category:Ambilobe",
+        "wikipedia": "fr:Ambilobe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.049956,
+          -13.194439
+        ]
+      },
+      "id": "node/726665354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/727284605",
+        "capital": "6",
+        "ele": "79",
+        "name": "Tsihombe",
+        "place": "town",
+        "wikidata": "Q3541560",
+        "wikipedia": "fr:Tsihombe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.484057,
+          -25.318547
+        ]
+      },
+      "id": "node/727284605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/727284607",
+        "capital": "6",
+        "ele": "155",
+        "name": "Beloha",
+        "place": "town",
+        "wikidata": "Q2895057",
+        "wikipedia": "en:Beloha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0610399,
+          -25.173662
+        ]
+      },
+      "id": "node/727284607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/727284608",
+        "capital": "6",
+        "name": "Ampanihy",
+        "place": "town",
+        "population": "38000",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q2844105",
+        "wikimedia_commons": "Category:Ampanihy",
+        "wikipedia": "fr:Ampanihy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7463882,
+          -24.6926617
+        ]
+      },
+      "id": "node/727284608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/727284617",
+        "alt_name": "Betioky",
+        "capital": "6",
+        "ele": "255",
+        "name": "Betioka",
+        "place": "town",
+        "population": "25612",
+        "population:date": "2018",
+        "source:alt_name": "GNS",
+        "source:population": "Instat 2018",
+        "wikipedia": "fr:Betioky"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3794652,
+          -23.718638
+        ]
+      },
+      "id": "node/727284617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/727292572",
+        "capital": "4",
+        "ele": "22",
+        "name": "Farafangana",
+        "name:en": "Farafangana",
+        "name:ru": "Фарафангана",
+        "place": "town",
+        "population": "34676",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q1006566",
+        "wikimedia_commons": "Category:Farafangana",
+        "wikipedia": "fr:Farafangana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8307127,
+          -22.8217524
+        ]
+      },
+      "id": "node/727292572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/727292575",
+        "capital": "6",
+        "ele": "12",
+        "name": "Vohipeno",
+        "place": "town",
+        "population": "14751",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q2638540",
+        "wikimedia_commons": "Category:Vohipeno",
+        "wikipedia": "en:Vohipeno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8399542,
+          -22.3548744
+        ]
+      },
+      "id": "node/727292575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/727292577",
+        "capital": "4",
+        "name": "Manakara",
+        "place": "town",
+        "population": "44237",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q991066",
+        "wikimedia_commons": "Category:Manakara",
+        "wikipedia": "fr:Manakara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.0113527,
+          -22.1449564
+        ]
+      },
+      "id": "node/727292577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/727308344",
+        "capital": "6",
+        "ele": "1425",
+        "name": "Betafo",
+        "place": "town",
+        "population": "34336",
+        "population:date": "2018",
+        "source": "survey",
+        "source:population": "Instat 2018",
+        "wikidata": "Q167181",
+        "wikimedia_commons": "Category:Betafo",
+        "wikipedia": "fr:Betafo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8562285,
+          -19.8385451
+        ]
+      },
+      "id": "node/727308344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/727308348",
+        "ele": "110",
+        "name": "Ambatolahy",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.5386322,
+          -20.012543
+        ]
+      },
+      "id": "node/727308348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/727308363",
+        "capital": "6",
+        "ele": "79",
+        "name": "Miandrivazo",
+        "place": "town",
+        "population": "20421",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q2573754",
+        "wikimedia_commons": "Category:Miandrivazo",
+        "wikipedia": "fr:Miandrivazo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.4587681,
+          -19.5312416
+        ]
+      },
+      "id": "node/727308363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/731246774",
+        "capital": "6",
+        "ele": "55",
+        "name": "Mampikony",
+        "place": "town",
+        "population": "28593",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q1099436",
+        "wikipedia": "en:Mampikony"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.642735,
+          -16.093117
+        ]
+      },
+      "id": "node/731246774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/866601087",
+        "capital": "4",
+        "ele": "127",
+        "name": "Ambovombe",
+        "place": "town",
+        "population": "65402",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q458507",
+        "wikipedia": "fr:Ambovombe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0877489,
+          -25.178398
+        ]
+      },
+      "id": "node/866601087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/888302465",
+        "capital": "6",
+        "is_in:country": "Madagascar",
+        "is_in:region": "Sava",
+        "name": "Antalaha",
+        "name:en": "Antalaha",
+        "name:ru": "Анталаха",
+        "name:uk": "Анталаха",
+        "place": "town",
+        "population": "67888",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q570816",
+        "wikimedia_commons": "Category:Antalaha",
+        "wikipedia": "fr:Antalaha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.2810433,
+          -14.9012302
+        ]
+      },
+      "id": "node/888302465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/889874221",
+        "capital": "6",
+        "name": "Betroka",
+        "place": "town",
+        "population": "17327",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q2900147",
+        "wikimedia_commons": "Category:Betroka",
+        "wikipedia": "en:Betroka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.097117,
+          -23.2672273
+        ]
+      },
+      "id": "node/889874221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/899232764",
+        "capital": "6",
+        "name": "Marolambo",
+        "place": "town",
+        "wikidata": "Q3294590",
+        "wikipedia": "en:Marolambo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1303834,
+          -20.0489861
+        ]
+      },
+      "id": "node/899232764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/972051892",
+        "capital": "6",
+        "name": "Vangaindrano",
+        "place": "town",
+        "population": "38537",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q3047030",
+        "wikimedia_commons": "Category:Vangaindrano",
+        "wikipedia": "fr:Vangaindrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.6047642,
+          -23.3498702
+        ]
+      },
+      "id": "node/972051892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1314355275",
+        "capital": "6",
+        "int_name": "Ifanadiana",
+        "name": "Ifanadiana",
+        "place": "town",
+        "population": "15681",
+        "population:date": "2018",
+        "source": "GPS",
+        "source:population": "Instat 2018",
+        "wikidata": "Q1099548",
+        "wikipedia": "fr:Ifanadiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.6366961,
+          -21.3029887
+        ]
+      },
+      "id": "node/1314355275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1348423038",
+        "capital": "6",
+        "name": "Manja",
+        "place": "town",
+        "population": "20556",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q3123057",
+        "wikipedia": "en:Manja, Madagascar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3303717,
+          -21.434135
+        ]
+      },
+      "id": "node/1348423038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1492685514",
+        "capital": "4",
+        "name": "Ambatondrazaka",
+        "place": "town",
+        "population": "47649",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q456731",
+        "wikipedia": "fr:Ambatondrazaka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4267188,
+          -17.8237084
+        ]
+      },
+      "id": "node/1492685514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1546156216",
+        "name": "Tanambe",
+        "place": "town",
+        "wikidata": "Q3514956",
+        "wikipedia": "en:Tanambe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.447954,
+          -17.3874
+        ]
+      },
+      "id": "node/1546156216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1808577147",
+        "name": "Analavory",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7161791,
+          -18.9746393
+        ]
+      },
+      "id": "node/1808577147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1809417673",
+        "capital": "6",
+        "name": "Arivonimamo",
+        "place": "town",
+        "population": "28324",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q1820954",
+        "wikipedia": "fr:Arivonimamo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1797742,
+          -19.0087687
+        ]
+      },
+      "id": "node/1809417673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1811182562",
+        "capital": "6",
+        "name": "Nosy Varika",
+        "place": "town",
+        "wikidata": "Q736946",
+        "wikimedia_commons": "Category:Nosy Varika",
+        "wikipedia": "en:Nosy Varika"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5322582,
+          -20.5829067
+        ]
+      },
+      "id": "node/1811182562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1811661203",
+        "capital": "6",
+        "name": "Beroroha",
+        "place": "town",
+        "wikidata": "Q2411046",
+        "wikipedia": "fr:Beroroha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.169849,
+          -21.679782
+        ]
+      },
+      "id": "node/1811661203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1811669671",
+        "capital": "6",
+        "name": "Iakora",
+        "place": "town",
+        "wikidata": "Q3147205",
+        "wikipedia": "en:Iakora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.659336,
+          -23.100785
+        ]
+      },
+      "id": "node/1811669671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1812785918",
+        "capital": "6",
+        "name": "Ankazoabo",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5101013,
+          -22.2926719
+        ]
+      },
+      "id": "node/1812785918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1814931788",
+        "capital": "6",
+        "is_in:country": "Madagascar",
+        "is_in:region": "Sofia",
+        "name": "Bealanana",
+        "place": "town",
+        "population": "30937",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q2892817",
+        "wikipedia": "fr:Bealanana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.7482434,
+          -14.5423728
+        ]
+      },
+      "id": "node/1814931788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1818141766",
+        "capital": "6",
+        "name": "Vatomandry",
+        "place": "town",
+        "population": "15836",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q2638549",
+        "wikimedia_commons": "Category:Vatomandry",
+        "wikipedia": "fr:Vatomandry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.9790394,
+          -19.3336272
+        ]
+      },
+      "id": "node/1818141766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1821666049",
+        "capital": "6",
+        "name": "Tsaratanàna",
+        "place": "town",
+        "population": "24971",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q535143",
+        "wikipedia": "fr:Tsaratanana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.6510407,
+          -16.7960006
+        ]
+      },
+      "id": "node/1821666049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1842128749",
+        "capital": "6",
+        "name": "Mananara Avaratra",
+        "place": "town",
+        "population": "35148",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q657286",
+        "wikipedia": "fr:Mananara Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.7655872,
+          -16.1687557
+        ]
+      },
+      "id": "node/1842128749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1842130062",
+        "capital": "6",
+        "name": "Mandritsara",
+        "place": "town",
+        "population": "31135",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q1028283",
+        "wikipedia": "en:Mandritsara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8238884,
+          -15.844323
+        ]
+      },
+      "id": "node/1842130062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1842133048",
+        "capital": "6",
+        "name": "Morombe",
+        "place": "town",
+        "population": "22625",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q1028252",
+        "wikipedia": "en:Morombe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.3593054,
+          -21.7440435
+        ]
+      },
+      "id": "node/1842133048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1862490336",
+        "capital": "6",
+        "name": "Ambatofinandrahana",
+        "place": "town",
+        "population": "37409",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q456709",
+        "wikipedia": "fr:Ambatofinandrahana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8032175,
+          -20.5505835
+        ]
+      },
+      "id": "node/1862490336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1905925256",
+        "name": "Bezaha",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5011974,
+          -23.5023967
+        ]
+      },
+      "id": "node/1905925256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1905989268",
+        "capital": "6",
+        "name": "Anosibe an'ala",
+        "name:ru": "Аносибе-Аннала",
+        "place": "town",
+        "wikidata": "Q16465943",
+        "wikipedia": "fr:Anosibe An'ala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2060125,
+          -19.4382256
+        ]
+      },
+      "id": "node/1905989268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1906027819",
+        "capital": "6",
+        "name": "Antanifotsy",
+        "place": "town",
+        "wikidata": "Q571099",
+        "wikipedia": "fr:Antanifotsy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3236143,
+          -19.6612484
+        ]
+      },
+      "id": "node/1906027819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1907078999",
+        "GNS:id": "-194774",
+        "capital": "6",
+        "name": "Ambato Boeny",
+        "place": "town",
+        "population": "33456",
+        "population:date": "2018",
+        "source:population": "Instat 2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7148208,
+          -16.4716451
+        ]
+      },
+      "id": "node/1907078999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1907304020",
+        "capital": "6",
+        "name": "Ikalamavony",
+        "place": "town",
+        "wikidata": "Q3148385",
+        "wikipedia": "en:Ikalamavony"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5980166,
+          -21.1671472
+        ]
+      },
+      "id": "node/1907304020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1912068799",
+        "capital": "6",
+        "name": "Andilamena",
+        "place": "town",
+        "population": "37229",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q1099525",
+        "wikimedia_commons": "Category:Andilamena",
+        "wikipedia": "fr:Andilamena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5725128,
+          -17.0141073
+        ]
+      },
+      "id": "node/1912068799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1917609577",
+        "capital": "6",
+        "name": "Mahabo",
+        "place": "town",
+        "population": "17731",
+        "population:date": "2018",
+        "source:population": "Instat 2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6692407,
+          -20.377742
+        ]
+      },
+      "id": "node/1917609577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1917844504",
+        "capital": "6",
+        "name": "Fandriana",
+        "place": "town",
+        "population": "29232",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q1395492",
+        "wikipedia": "fr:Fandriana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3783614,
+          -20.2387837
+        ]
+      },
+      "id": "node/1917844504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1918891239",
+        "capital": "6",
+        "name": "Anjozorobe",
+        "place": "town",
+        "population": "24117",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q2850269",
+        "wikimedia_commons": "Category:Anjozorobe",
+        "wikipedia": "fr:Anjozorobe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8820115,
+          -18.401176
+        ]
+      },
+      "id": "node/1918891239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1920569280",
+        "alt_name": "Fort Carnot",
+        "capital": "6",
+        "name": "Ikongo",
+        "place": "town",
+        "population": "36684",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q1025754",
+        "wikimedia_commons": "Category:Ikongo",
+        "wikipedia": "fr:Ikongo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4359236,
+          -21.8784467
+        ]
+      },
+      "id": "node/1920569280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1920645401",
+        "capital": "6",
+        "name": "Antanambao Manampontsy",
+        "place": "town",
+        "wikidata": "Q2852577",
+        "wikipedia": "en:Antanambao Manampotsy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5738096,
+          -19.4853201
+        ]
+      },
+      "id": "node/1920645401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1920684450",
+        "name": "Andriamena",
+        "place": "town",
+        "wikidata": "Q2846860",
+        "wikimedia_commons": "Category:Andriamena",
+        "wikipedia": "en:Andriamena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5045851,
+          -17.4477109
+        ]
+      },
+      "id": "node/1920684450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1935660318",
+        "GNS:id": "-209644",
+        "capital": "6",
+        "name": "Befandriana",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5420235,
+          -15.254677
+        ]
+      },
+      "id": "node/1935660318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1948690911",
+        "alt_name": "Ambovombe Centre",
+        "capital": "6",
+        "loc_name": "Ambovombe",
+        "name": "Ambovombe",
+        "place": "town",
+        "wikidata": "Q2842343",
+        "wikipedia": "en:Ambovombe Afovoany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0761439,
+          -20.7780568
+        ]
+      },
+      "id": "node/1948690911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1963938854",
+        "name": "Ankazomiriotra",
+        "place": "town",
+        "wikidata": "Q2850306",
+        "wikipedia": "en:Ankazomiriotra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5332578,
+          -19.6599454
+        ]
+      },
+      "id": "node/1963938854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1964119200",
+        "capital": "6",
+        "name": "Kandreho",
+        "place": "town",
+        "wikidata": "Q15233454",
+        "wikipedia": "en:Kandreho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0947251,
+          -17.4840961
+        ]
+      },
+      "id": "node/1964119200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1976552330",
+        "name": "Isoanala",
+        "place": "town",
+        "wikidata": "Q748440",
+        "wikipedia": "en:Isoanala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.714519,
+          -23.835297
+        ]
+      },
+      "id": "node/1976552330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1977886891",
+        "capital": "6",
+        "name": "Ivohibe",
+        "place": "town",
+        "wikidata": "Q3156334",
+        "wikipedia": "en:Ivohibe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.888135,
+          -22.4810358
+        ]
+      },
+      "id": "node/1977886891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1982961757",
+        "name": "Sandrakatsy",
+        "place": "town",
+        "wikidata": "Q3471960",
+        "wikipedia": "en:Sandrakatsy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6108847,
+          -16.3388957
+        ]
+      },
+      "id": "node/1982961757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1995273300",
+        "alt_name": "Amboasary Atsimo",
+        "capital": "6",
+        "name": "Amboasary",
+        "place": "town",
+        "population": "45989",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikipedia": "fr:Amboasary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3853238,
+          -25.0359198
+        ]
+      },
+      "id": "node/1995273300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1995273321",
+        "name": "Tsivory",
+        "place": "town",
+        "wikidata": "Q3541601",
+        "wikipedia": "en:Tsivory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.07608,
+          -24.070785
+        ]
+      },
+      "id": "node/1995273321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2006266811",
+        "alt_name": "Sakay",
+        "name": "Ankadinondry Sakay",
+        "old_name": "Babetville",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.4632881,
+          -19.0001819
+        ]
+      },
+      "id": "node/2006266811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2028685667",
+        "name": "Malaimbandy",
+        "place": "town",
+        "wikidata": "Q1099535",
+        "wikipedia": "fr:Malaimbandy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.5955108,
+          -20.3446512
+        ]
+      },
+      "id": "node/2028685667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2121490022",
+        "capital": "6",
+        "name": "Amparafaravola",
+        "place": "town",
+        "population": "33299",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q474396",
+        "wikipedia": "fr:Amparafaravola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2237417,
+          -17.587293
+        ]
+      },
+      "id": "node/2121490022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2207189670",
+        "capital": "6",
+        "name": "Mandoto",
+        "place": "town",
+        "wikidata": "Q3285551",
+        "wikipedia": "en:Mandoto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.2881896,
+          -19.5790031
+        ]
+      },
+      "id": "node/2207189670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265791133",
+        "name": "Imerintsiatosika",
+        "place": "town",
+        "wikidata": "Q3149001",
+        "wikipedia": "en:Imerintsiatosika"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3238704,
+          -18.9812396
+        ]
+      },
+      "id": "node/2265791133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2272560314",
+        "capital": "6",
+        "name": "Bekily",
+        "place": "town",
+        "population": "20915",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q3323700",
+        "wikipedia": "en:Morafeno Bekily"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3189359,
+          -24.2220541
+        ]
+      },
+      "id": "node/2272560314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2408636306",
+        "name": "Mahavelona",
+        "name:fr": "Foulpointe",
+        "place": "town",
+        "wikidata": "Q3079900",
+        "wikimedia_commons": "Category:Foulpointe",
+        "wikipedia": "en:Mahavelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5118525,
+          -17.6788734
+        ]
+      },
+      "id": "node/2408636306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2577165720",
+        "capital": "4",
+        "name": "Mananjary",
+        "name:ru": "Манандзари",
+        "place": "town",
+        "population": "25222",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q2423152",
+        "wikimedia_commons": "Category:Mananjary",
+        "wikipedia": "fr:Mananjary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.3463035,
+          -21.2385393
+        ]
+      },
+      "id": "node/2577165720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2927935134",
+        "alt_name": "Nosifeno",
+        "capital": "6",
+        "name": "Midongy Atsimo",
+        "name:fr": "Midongy du Sud",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0168975,
+          -23.5895974
+        ]
+      },
+      "id": "node/2927935134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2959022915",
+        "capital": "6",
+        "name": "Vavatenina",
+        "place": "town",
+        "population": "35750",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q1939515",
+        "wikipedia": "fr:Vavatenina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.19623,
+          -17.4675002
+        ]
+      },
+      "id": "node/2959022915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2959103226",
+        "capital": "6",
+        "name": "Vondrozo",
+        "place": "town",
+        "wikidata": "Q610203",
+        "wikipedia": "en:Vondrozo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3210914,
+          -22.8204183
+        ]
+      },
+      "id": "node/2959103226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3355969555",
+        "alt_name": "Fort Dauphin",
+        "alt_name_1": "Taolagnaro",
+        "capital": "4",
+        "name": "Tolagnaro",
+        "name:en": "Tolanaro",
+        "name:fr": "Fort Dauphin",
+        "name:ko": "톨라나로",
+        "place": "city",
+        "population": "67284",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q526568",
+        "wikipedia": "en:Tôlanaro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9966565,
+          -25.0290132
+        ]
+      },
+      "id": "node/3355969555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3677866835",
+        "capital": "8",
+        "name": "Ranomafana",
+        "place": "town",
+        "wikidata": "Q3419015",
+        "wikimedia_commons": "Category:Ranomafana",
+        "wikipedia": "en:Ranomafana, Ifanadiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.45467,
+          -21.259469
+        ]
+      },
+      "id": "node/3677866835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10737666768",
+        "name": "Ejeda",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5152324,
+          -24.3484524
+        ]
+      },
+      "id": "node/10737666768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8780453843",
+        "capital": "6",
+        "name": "Antanimora",
+        "place": "town",
+        "source": "MSFsurvey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.6576133,
+          -24.8190296
+        ]
+      },
+      "id": "node/8780453843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9815306789",
+        "name": "R+3",
+        "place": "city_block"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.7018337,
+          -23.3283882
+        ]
+      },
+      "id": "node/9815306789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11688835431",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5925367,
+          -22.8287466
+        ]
+      },
+      "id": "node/11688835431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11688835960",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7316796,
+          -22.6972623
+        ]
+      },
+      "id": "node/11688835960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11870122818",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8274963,
+          -22.3111132
+        ]
+      },
+      "id": "node/11870122818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11417749788",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.330159,
+          -18.5471659
+        ]
+      },
+      "id": "node/11417749788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5488327466",
+        "capital": "6",
+        "name": "Mahanoro",
+        "name:fr": "Mahanoro",
+        "place": "town",
+        "population": "37800",
+        "population:date": "2018",
+        "source:population": "Instat 2018",
+        "wikidata": "Q2480166",
+        "wikimedia_commons": "Category:Mahanoro",
+        "wikipedia": "fr:Mahanoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8094884,
+          -19.9001695
+        ]
+      },
+      "id": "node/5488327466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11626860621",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9875176,
+          -18.7764863
+        ]
+      },
+      "id": "node/11626860621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11626860618",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0044944,
+          -18.7691214
+        ]
+      },
+      "id": "node/11626860618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11626860617",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0280361,
+          -18.7595906
+        ]
+      },
+      "id": "node/11626860617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11626860712",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0614429,
+          -18.7508033
+        ]
+      },
+      "id": "node/11626860712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11626860714",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0906524,
+          -18.7471143
+        ]
+      },
+      "id": "node/11626860714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11626860716",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1090924,
+          -18.7512863
+        ]
+      },
+      "id": "node/11626860716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11626860715",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1090084,
+          -18.7417685
+        ]
+      },
+      "id": "node/11626860715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11626860718",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1340433,
+          -18.7326411
+        ]
+      },
+      "id": "node/11626860718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10726170748",
+        "place": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6820454,
+          -16.0533402
+        ]
+      },
+      "id": "node/10726170748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6411285142",
+        "capital": "6",
+        "name": "Vohemar",
+        "place": "town",
+        "population": "22047",
+        "population:date": "2018",
+        "source:population": "Instat 2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.0070566,
+          -13.355284
+        ]
+      },
+      "id": "node/6411285142"
+    }
+  ]
+}
